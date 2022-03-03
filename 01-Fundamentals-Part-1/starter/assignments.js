@@ -20,8 +20,8 @@ console.log(population+1);
 let finlandPopulation = 6000000;
 
 if (population > finlandPopulation) {
-    console.log("The " + COUNTRY + " has a larger population than Finland");
+    console.log("The " + COUNTRY + " has a larger population than Finland.");
 } else {
-    (console.log("Finland has a greater population than the " + COUNTRY));
+    (console.log("Finland has a greater population than the " + COUNTRY + "."));
 }
 

@@ -1,12 +1,12 @@
-let COUNTRY = "USA";
-let CONTINENT = "North America";
+const COUNTRY = "USA";
+const CONTINENT = "North America";
 let population = 579000000;
 
 console.log(COUNTRY, CONTINENT, population);
 
 
 let isIsland = false;
-let LANGUAGE = "English";
+const LANGUAGE = "English";
 
 console.log(typeof isIsland);
 console.log(typeof population);
